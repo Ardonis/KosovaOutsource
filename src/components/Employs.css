@@ -1,0 +1,23 @@
+.employe {
+  align-items: center;
+  border: 1px solid grey;
+  margin: 10px;
+  flex: calc(33.3333% - 20px);
+  padding: 20px;
+  border-radius: 16px;
+}
+.btn {
+  width: 50%;
+  border: 1px solid blue;
+  border-radius: 16px;
+  padding: 15px;
+  font-size: 14px;
+  color: blue;
+  background-color: #dfdfdf;
+}
+.text {
+  height: 30vh;
+}
+.employe div {
+  padding: 10px;
+}
